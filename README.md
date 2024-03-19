@@ -1,5 +1,6 @@
 # Active_Passive_Spectrum_Coexistence
-![Uploading Picture1.png…]()
+![Picture1](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/deb9db6d-f607-4bb9-80ba-aeb7ec957c9f)
+
 
 In our rapidly expanding realm of advanced satellite and communication systems, passive radiometer sensors utilized in Earth observation, such as those for 5G, face an escalating challenge posed by radio frequency interference (RFI) stemming from human-generated signals. Effective methodologies to assess the impact of 5G on Earth observation radiometers are urgently needed. Unfortunately, the scarcity of substantial datasets in the radio frequency (RF) domain, particularly concerning active/passive coexistence, impedes progress. Our research presents a controlled test environment comprising a calibrated L-band radiometer and a 5G wireless communication system. Housed within a controlled chamber, this unique setup enables the observation and quantification of transmission effects across various frequency bands. Through the creation of a comprehensive dataset, our objective is to standardize and benchmark both wireless communication and passive sensing. Leveraging the capacity to analyze raw measurements, our test environment facilitates the detection and mitigation of RFI, promoting the harmonious coexistence of wireless communication and passive sensing technologies while establishing vital standards.
 
