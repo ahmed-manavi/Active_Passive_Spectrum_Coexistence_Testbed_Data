@@ -3,3 +3,5 @@ In our rapidly expanding realm of advanced satellite and communication systems, 
 
 Dataset Download Link (V1): https://mstate-my.sharepoint.com/:f:/g/personal/aa2863_msstate_edu/Esvo2OU23pBDq1UmFqgFqJ8BHmAMKpDkuCrCwgNHwBEX_Q?e=2dNgtM
 
+## Overall Testbed
+![photo 2](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/844fbcbc-ffb1-42e4-bf9d-3501a227e55e)
