@@ -6,14 +6,14 @@ Dataset Download Link (V1): https://mstate-my.sharepoint.com/:f:/g/personal/aa28
 ## Overall Testbed
 ![photo 2](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/844fbcbc-ffb1-42e4-bf9d-3501a227e55e)
 
-## Testbed Schenatic
+## Testbed Schematic
 ![photo 3](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/65b5c397-ce79-4f4c-9a67-4d89d80c84bd)
 
 ## Data Storage
-[data Storing.pdf](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/files/14646482/data.Storing.pdf)
+![Data Format](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/ed6d8b6f-4fc2-4281-95be-976d9c28fca5)
 
 ## Experimental Scenario
-[Scenarios_inband_outband.pdf](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/files/14646488/Scenarios_inband_outband.pdf)
+![df701e924fi2 pdf-1](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/341a1d5f-176a-4da6-819d-39bf7ff6ad9c)
 
 ## References
 1. A. M. Alam, M. M. Farhad, W. Al-Qwider, A. Owfi, M. Koosha, N. Mastronarde, F. Afghah, V. Marojevic, M. Kurum, and A. C. Gurbuz, "A Physical Testbed and Open Dataset for Benchmarking of Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Submitted)
