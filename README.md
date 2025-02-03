@@ -106,8 +106,7 @@ For questions or contributions, please contact the corresponding author:
 **Vuk Marojevic** - [vuk.marojevic@ece.msstate.edu](mailto:vuk.marojevic@ece.msstate.edu)
 
 
-
-
+---
 
 # Overall MSU Testbed
 ![Testbed Picture_1](https://github.com/user-attachments/assets/e8d1aff5-4294-4f7d-9338-dbc9bba128a8)
@@ -130,17 +129,10 @@ In our rapidly expanding realm of advanced satellite and communication systems, 
 
 Dataset Download Link (V1): https://mstate-my.sharepoint.com/:f:/g/personal/aa2863_msstate_edu/Esvo2OU23pBDq1UmFqgFqJ8BHmAMKpDkuCrCwgNHwBEX_Q?e=2dNgtM
 
-## Overall Testbed
-![photo 2](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/844fbcbc-ffb1-42e4-bf9d-3501a227e55e)
 
 ## Testbed Schematic
 ![photo 3](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/65b5c397-ce79-4f4c-9a67-4d89d80c84bd)
 
-## Data Storage
-![Data Format](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/ed6d8b6f-4fc2-4281-95be-976d9c28fca5)
-
-## Experimental Scenario
-![df701e924fi2 pdf-1](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data/assets/95959590/341a1d5f-176a-4da6-819d-39bf7ff6ad9c)
 
 ## References
 1. A. M. Alam, M. M. Farhad, W. Al-Qwider, A. Owfi, M. Koosha, N. Mastronarde, F. Afghah, V. Marojevic, M. Kurum, and A. C. Gurbuz, "A Physical Testbed and Open Dataset for Benchmarking of Passive Sensing and Wireless Communication Spectrum Coexistence," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Submitted)
@@ -149,4 +141,4 @@ Dataset Download Link (V1): https://mstate-my.sharepoint.com/:f:/g/personal/aa28
 4. M. M. Farhad, A. M. Alam, S. Biswas, M. A. S. Rafi, A. C. Gurbuz, and M. Kurum, “Sdr-based dual polarized l-band microwave radiometer operating from small uas platforms,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023
 5. W. Al-Qwider, A. M. Alam, M. Mehedi Farhad, M. Kurum, A. C. Gurbuz and V. Marojevic, "Software Radio Testbed for 5G and L-Band Radiometer Coexistence Research," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 596-599, doi: 10.1109/IGARSS52108.2023.10283002.
 
-# Contact: Ahmed Manavi Alam (aa2863@msstate.edu) for any details
+
